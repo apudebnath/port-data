@@ -6,6 +6,7 @@
       "image": "https://i.ibb.co/m0yPqNs/ancient-pottery.jpg",
       "description": "Responsive, logged-in users can purchase, admin and logged-in users have managed a separate dashboard, where users can manage orders and give reviews.Purchase system managed by stripe, admin can add products, make an admin, and manage all orders on the dashboard. Admin can use this website for different purposes.",
       "duration": "October 21 to November 21",
+      "live": "https://ancient-potterys.web.app/",
       "technology": "ReactJs, NodeJs, Material UI, react-router, private route, context Api, Jwt token, firebase, MongoDB and Heroku."
     },
     {
@@ -15,6 +16,7 @@
       "image": "https://i.ibb.co/6gnCsHd/travelinnature.jpg",
       "description": "Travel-tour based responsive project, admin manages this project by adding packages, updating status, and having a delete order option. Visitors can see the package but logged-in users can buy any tour packages and have the option to delete the order.",
       "duration": "October 21 to November 21",
+      "live": "https://travel-in-nature.firebaseapp.com/",
       "technology": "ReactJs, NodeJs, Material UI, react-router, private route, context Api, Jwt token, firebase, MongoDB and Heroku."
     },
     {
@@ -24,6 +26,7 @@
       "image": "https://i.ibb.co/RDP3RQy/angelhope.jpg",
       "description": "Responsive in mobile and desktop, and logged-in users can view package details and book a doctor for individual appointments. Admin can use this website for different purposes or different medical niches. Users can join our community and enjoy social activities.",
       "duration": "September 21 to October 21",
+      "live": "https://angelhope-specialized-hospital.web.app/home",
       "technology": "ReactJs, NodeJs, Material UI, react-router, private route, context Api, Jwt token, firebase, MongoDB and Heroku."
     },
     {
@@ -33,6 +36,7 @@
       "image": "https://i.ibb.co/7V20Bcs/worldwideeducation.jpg",
       "description": "This project was bootstrapped with React app. Here I am trying to manage a learning site as much as easy way to show different course and course info to understand what services you can provide.This is a light wight and fast loading site because here we are using react and react router can easily load content without loading total page.",
       "duration": "August 21 to September 21",
+      "live": "https://world-wideedu-04oc21tob.netlify.app/",
       "technology": "ReactJs, NodeJs, Material UI, react-router, private route, context Api, Jwt token, firebase, MongoDB and Heroku."
     }
   ]
